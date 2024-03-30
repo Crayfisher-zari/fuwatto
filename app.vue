@@ -1,5 +1,11 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <AnimationSample />
   </div>
 </template>
+<style>
+:root{
+  --bg:#efefef;
+  --shadow:#999;
+}
+</style>

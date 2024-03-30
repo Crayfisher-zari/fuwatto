@@ -10,8 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.11.1",
-    "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "@nuxt/fonts": "0.4.0",
+    "nuxt": "3.11.1",
+    "sass": "1.72.0",
+    "tween24": "1.5.0",
+    "vue": "3.4.21",
+    "vue-router": "4.3.0"
   }
 }
